@@ -1,0 +1,2 @@
+# MagicMirrorCompliments
+Compliments JSON files
